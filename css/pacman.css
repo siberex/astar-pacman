@@ -12,26 +12,26 @@ body {
 .ui-icon-wall {
 	width: 24px;
 	height: 24px;
-	background-image: url(/img/pacman/btn-wall.png) !important;
+	background-image: url(../img/btn-wall.png) !important;
 	margin-top: -12px !important;
 }
 .ui-icon-blinky {
 	width: 24px;
 	height: 24px;
-	background-image: url(/img/pacman/btn-blinky.png) !important;
+	background-image: url(../img/btn-blinky.png) !important;
 	margin-top: -12px !important;
 }
 .ui-icon-pacman {
 	width: 24px;
 	height: 24px;
-	background-image: url(/img/pacman/btn-pacman.png) !important;
+	background-image: url(../img/btn-pacman.png) !important;
 	margin-top: -12px !important;
 }
 
 .ui-icon-find {
 	width: 24px;
 	height: 24px;
-	background-image: url(/img/pacman/btn-find.png) !important;
+	background-image: url(../img/btn-find.png) !important;
 	margin-top: -12px !important;
 }
 
